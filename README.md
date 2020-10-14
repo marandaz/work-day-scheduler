@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/marandaz/work-day-scheduler">
-    <img src="./Assets/logo.png" alt="Logo" width="max" height="600px">
+    <img src="./Assets/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">WORK DAY SCHEDULER</h3>
