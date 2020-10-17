@@ -44,9 +44,6 @@
 <p align="center">
 <a href="https://marandaz.github.io/work-day-scheduler/">
     <img src="Assets/initial.png" alt="on initial page load"/>
-    .
-    <img src="Assets/clickedgenerate.png" alt="on first click"/>
-<!-- MARANDA TO UPDATE LINK ABOVE SO IT WORKS -->
 </a>
 </p>
 
